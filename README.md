@@ -17,7 +17,7 @@
 
 ## 下载安装
 
-从 [Releases](https://github.com/你的用户名/你的仓库名/releases) 页面下载最新版安装包：
+从 [Releases](https://github.com/chinasuperpower/BCutSubtitleTool/releases) 页面下载最新版安装包：
 
 - `BCut_Subtitle_Tool_v1.0_setup.exe` — Windows 安装程序（已内置 ffmpeg，无需额外配置）
 
