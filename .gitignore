@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.spec
+
+# PyInstaller 构建产物
+build/
+dist/
+*.exe
+
+# Inno Setup 安装包
+installer/
+installer_script.iss
+innosetup_install.exe
+
+# ffmpeg 便携版（体积大，通过构建脚本自动下载）
+ffmpeg/
+
+# 配置文件（含个人路径，不提交）
+config.json
+publish_config.json
+
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# 临时文件
+*.tmp
+*.log
